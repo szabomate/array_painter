@@ -5,3 +5,5 @@ P5.js link: https://editor.p5js.org/expiredharmonix/full/0oCOwPp1d
 - WIDTH and HEIGHT set the resolution in pixels
 - PIXEL SIZE controls how large each pixel appears on the canvas
 - FORMAT selects the array type (options: 8, 16, 32)
+
+![description](screenshot.png)
