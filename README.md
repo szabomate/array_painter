@@ -1,5 +1,6 @@
 # array_painter
 A small tool for creating monochrome display graphics and converting them into arrays.
+P5.js link: https://editor.p5js.org/expiredharmonix/full/0oCOwPp1d
 
 - WIDTH and HEIGHT set the resolution in pixels
 - PIXEL SIZE controls how large each pixel appears on the canvas
